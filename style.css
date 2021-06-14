@@ -1,0 +1,10 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;  /*horizontalmente no centro*/
+    align-items: center;      /*verticalmente*/
+    flex-direction: column;
+    color: #581845;
+    background-color: #DAF7A6;
+}
